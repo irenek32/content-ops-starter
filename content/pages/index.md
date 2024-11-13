@@ -67,7 +67,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          [See Product](/)
+          [See Product](https://amzn.to/4fMIB8u)
         image:
           type: ImageBlock
           url: /images/Grey minimalist business project presentation .jpg
