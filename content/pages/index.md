@@ -4,29 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome
+      text: "Welcome\_to Irene Store"
       color: text-dark
       type: TitleBlock
-    subtitle: to Irene Store
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
+    subtitle: ''
     text: "Bringing you the best in nail art \U0001F496, fresh designs \U0001F485, and daily inspiration \U0001F308. Follow for creative ideas to make your nails stand out! ✨\U0001F496\n\n<meta name=\"p:domain\\_verify\" content=\"e674dfcc5cf58e78e51962540ad59c1a\"/>\n\n"
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-      - type: Link
-        altText: ''
-        url: 'https://www.instagram.com/irene.abigail_/'
-        showIcon: true
-        icon: instagram
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       url: /images/Minimalist Nail Art.jpg
       altText: Unblock your team boost your time to production preview
@@ -43,6 +30,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
