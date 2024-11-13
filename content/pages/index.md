@@ -66,7 +66,8 @@ sections:
         title: 'Item #1'
         tagline: ''
         subtitle: ''
-        text: ''
+        text: |
+          savnojnb
         image:
           type: ImageBlock
           url: /images/Grey minimalist business project presentation .jpg
