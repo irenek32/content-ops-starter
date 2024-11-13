@@ -4,5 +4,12 @@
     "legalLinks": [],
     "copyrightText": "<div style=\"text-align: center\">@Copyright 2024</div>\n\n",
     "colors": "bg-neutral-fg-dark",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-0"
+            ]
+        }
+    }
 }
