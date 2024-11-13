@@ -10,15 +10,6 @@ sections:
     subtitle: to Irene Store
     text: "Bringing you the best in nail art \U0001F496, fresh designs \U0001F485, and daily inspiration \U0001F308. Follow for creative ideas to make your nails stand out! ✨\U0001F496\n"
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
