@@ -75,16 +75,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
