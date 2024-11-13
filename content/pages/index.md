@@ -192,7 +192,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Items #5'
-        tagline: Testimonial 5
+        tagline: ''
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
