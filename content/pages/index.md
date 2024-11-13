@@ -549,7 +549,7 @@ sections:
 seo:
   metaTitle: Irene Store
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Grey minimalist business project presentation .jpg
   type: Seo
   addTitleSuffix: false
 type: PageLayout
