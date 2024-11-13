@@ -58,7 +58,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Untitled design (1).png
           altText: Business consulting
           elementId: ''
           styles:
