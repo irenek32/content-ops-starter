@@ -49,11 +49,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: Amazon Products
-      color: text-dark
-    subtitle: ''
+    subtitle: Amazon Products
     items:
       - title: 'Items #1'
         tagline: ''
@@ -76,7 +72,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -110,7 +106,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -144,7 +140,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -178,7 +174,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
