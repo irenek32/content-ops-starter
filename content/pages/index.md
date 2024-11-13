@@ -99,6 +99,43 @@ sections:
             borderStyle: solid
             textAlign: center
             justifyContent: center
+      - type: FeaturedItem
+        title: Electric Portable Nail Drill Machine Kit
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: 'https://amzn.to/3ADQi1H'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-5
+              - pb-4
+              - pr-5
+            borderRadius: x-large
+            flexDirection: col
+            borderColor: border-neutral
+            borderWidth: 0
+            borderStyle: solid
+            textAlign: center
+            justifyContent: center
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
