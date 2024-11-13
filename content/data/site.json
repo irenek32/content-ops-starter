@@ -3,5 +3,6 @@
     "titleSuffix": "Irene Store",
     "type": "Config",
     "header": "content/data/header.json",
-    "favicon": "/images/Untitled design.png"
+    "favicon": "/images/Untitled design.png",
+    "defaultSocialImage": "/images/Grey minimalist business project presentation .jpg"
 }
