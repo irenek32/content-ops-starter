@@ -87,7 +87,7 @@ sections:
             borderRadius: medium
             flexDirection: col
             borderColor: border-neutral
-            borderWidth: 8
+            borderWidth: 0
       - type: FeaturedItem
         title: 'Item #2'
         tagline: ''
