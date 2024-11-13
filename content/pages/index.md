@@ -124,7 +124,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Items #1'
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
