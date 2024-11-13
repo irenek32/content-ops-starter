@@ -327,8 +327,7 @@ sections:
         title: 'Items #9'
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
