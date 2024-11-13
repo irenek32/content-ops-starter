@@ -89,7 +89,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Untitled design (1).png
           altText: Faux Fur Throw
           elementId: ''
           styles:
