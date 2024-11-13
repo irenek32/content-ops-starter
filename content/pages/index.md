@@ -57,7 +57,7 @@ sections:
     items:
       - title: 'Items #1'
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           url: /images/person-placeholder-light.png
