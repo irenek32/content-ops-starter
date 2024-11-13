@@ -55,7 +55,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 'Item #1'
         tagline: ''
         subtitle: ''
         text: ''
