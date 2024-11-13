@@ -67,13 +67,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions:
           - type: Button
             label: See Product
