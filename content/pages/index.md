@@ -86,6 +86,7 @@ sections:
               - pr-8
             borderRadius: medium
             flexDirection: col
+            borderColor: border-neutral
       - type: FeaturedItem
         title: 'Item #2'
         tagline: ''
