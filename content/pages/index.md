@@ -53,7 +53,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: Amazon Products
     items:
       - title: 'Items #1'
         tagline: ''
