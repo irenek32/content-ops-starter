@@ -53,7 +53,7 @@ sections:
       type: TitleBlock
       text: Amazon Products
       color: text-dark
-    subtitle: What our customers say about us
+    subtitle: ''
     items:
       - title: Items on sale
         tagline: ''
