@@ -52,38 +52,6 @@ sections:
     subtitle: Amazon Products
     items:
       - type: FeaturedItem
-        title: 'Items #7'
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: 'Items #8'
         tagline: ''
         subtitle: ''
