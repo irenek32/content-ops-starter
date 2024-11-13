@@ -548,8 +548,8 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Irene Store
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaDescription: Creative ideas to make your nails stand out!
+  socialImage: /images/Grey minimalist business project presentation .jpg
   type: Seo
   addTitleSuffix: false
 type: PageLayout
