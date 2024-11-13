@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Items #1'
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
