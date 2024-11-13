@@ -106,7 +106,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/Rose Garden Jelly Gel Nail Polish of 6 Transparent Nude.jpg
           altText: Placeholder image
           styles:
             self:
