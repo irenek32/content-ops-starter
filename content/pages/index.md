@@ -136,7 +136,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: ''
+            label: See Product
             altText: ''
             url: /
             showIcon: false
