@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Item #1'
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
