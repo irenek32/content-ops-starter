@@ -51,7 +51,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: No Wipe Gel Top Coat and Base Coat Set
