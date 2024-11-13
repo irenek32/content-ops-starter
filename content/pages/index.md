@@ -28,6 +28,14 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Link
+        altText: ''
+        url: 'https://www.instagram.com/irene.abigail_/'
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/Grey minimalist business project presentation .jpg
       altText: Unblock your team boost your time to production preview
