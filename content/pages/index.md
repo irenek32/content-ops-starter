@@ -180,7 +180,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/3D Nail Art Sculpting Gel Glue for DIY Art Drawing.jpg
           altText: Placeholder image
           styles:
             self:
