@@ -80,146 +80,17 @@ sections:
         styles:
           self:
             padding:
-              - pt-5
-              - pl-8
-              - pb-5
-              - pr-8
-            borderRadius: medium
+              - pt-4
+              - pl-5
+              - pb-4
+              - pr-5
+            borderRadius: x-large
             flexDirection: col
             borderColor: border-neutral
             borderWidth: 0
             borderStyle: solid
             textAlign: center
-      - type: FeaturedItem
-        title: 'Item #3'
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Grey minimalist business project presentation .jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-3
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            margin:
-              - mb-10
-      - type: FeaturedItem
-        title: 'Item #4'
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Grey minimalist business project presentation .jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: 'Item #5'
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Grey minimalist business project presentation .jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: 'Item #6'
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Grey minimalist business project presentation .jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
+            justifyContent: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
