@@ -7,6 +7,9 @@ sections:
       text: "Welcome\_to Irene Store"
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: "Bringing you the best in nail art \U0001F496, fresh designs \U0001F485, and daily inspiration \U0001F308. Follow for creative ideas to make your nails stand out! ✨\U0001F496\n\n<meta name=\"p:domain\\_verify\" content=\"e674dfcc5cf58e78e51962540ad59c1a\"/>\n\n"
     actions:
