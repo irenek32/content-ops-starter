@@ -8,7 +8,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog
   metaDescription: ''
   socialImage: /images/img-placeholder.svg
   type: Seo
