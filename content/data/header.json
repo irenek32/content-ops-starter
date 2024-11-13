@@ -11,19 +11,9 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
