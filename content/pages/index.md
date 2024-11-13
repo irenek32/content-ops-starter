@@ -359,7 +359,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: 4PCS Nail Art Stamper Kit Clear Silicone Nail Stamping
+        title: 4PCS Silicone Tip Nail Stamper Kit
         tagline: ''
         subtitle: ''
         text: ''
