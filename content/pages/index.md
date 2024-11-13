@@ -109,7 +109,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: 'Item #4'
+        title: 'Item #2'
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
@@ -133,7 +133,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: 'Item #2'
+        title: 'Item #4'
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
