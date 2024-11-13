@@ -1,0 +1,58 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Item",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Item"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Item #1",
+                "tagline": "",
+                "subtitle": "",
+                "text": "[See Product](/)\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Grey minimalist business project presentation .jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-4",
+                            "pl-5",
+                            "pb-4",
+                            "pr-5"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col",
+                        "borderColor": "border-neutral",
+                        "borderWidth": 0,
+                        "borderStyle": "solid",
+                        "textAlign": "center",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-item-6bb5.png"
+        }
+    ]
+}
