@@ -174,7 +174,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: Nail Care Tool Kit Pedicure & Manicure Tools
+        title: Nail Care Tool Kit & Manicure Tools
         tagline: ''
         subtitle: ''
         text: ''
