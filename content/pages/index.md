@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome
+      text: "Welcome\_to Irene Store"
       color: text-dark
       type: TitleBlock
     subtitle: ''
