@@ -79,7 +79,7 @@ sections:
             label: See Product
             altText: ''
             url: 'https://amzn.to/3ADQi1H'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
