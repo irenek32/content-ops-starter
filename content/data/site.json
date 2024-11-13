@@ -1,7 +1,6 @@
 {
     "footer": "content/data/footer.json",
     "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json",
     "favicon": "/images/Grey minimalist business project presentation .jpg"
