@@ -58,8 +58,7 @@ sections:
         title: Feature Item One
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/Grey minimalist business project presentation .jpg
