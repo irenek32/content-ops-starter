@@ -49,10 +49,6 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
     subtitle: Amazon Products
     items:
       - title: 'Items #1'
