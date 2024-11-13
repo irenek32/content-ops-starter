@@ -180,10 +180,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: >-
-            /images/Nail Care Tool Kit, Nail Files 100180, Nail Buffer Block,
-            Cuticle Nippers, Cuticle Trimmer, Cuticle Pusher, Nail Lifter for
-            Ingrown Toenails.jpg
+          url: /images/Nail Care Tool Kit Pedicure & Manicure Tools.jpg
           altText: Placeholder image
           styles:
             self:
