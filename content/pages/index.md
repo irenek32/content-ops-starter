@@ -56,8 +56,8 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/Untitled design (1).png
+          altText: ''
           styles:
             self:
               borderRadius: full
@@ -358,7 +358,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Untitled design (1).png
           altText: Placeholder text
           styles:
             self:
