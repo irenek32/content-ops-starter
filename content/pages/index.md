@@ -328,7 +328,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/16 Jars Chrome Nail Powder Nail Art Glitter.jpg
           altText: Placeholder image
           styles:
             self:
