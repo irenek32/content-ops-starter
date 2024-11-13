@@ -57,7 +57,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Untitled design (1).png
-          altText: Faux Fur Throw
+          altText: 'Item #1'
           elementId: ''
           styles:
             self:
