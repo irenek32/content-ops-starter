@@ -374,7 +374,7 @@ sections:
           - type: Button
             label: See Product
             altText: ''
-            url: 'https://amzn.to/3ADQi1H'
+            url: 'https://amzn.to/3YPxx3c'
             showIcon: false
             icon: arrowRight
             iconPosition: right
