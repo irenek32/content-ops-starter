@@ -136,7 +136,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: ''
             altText: ''
             url: /
             showIcon: false
