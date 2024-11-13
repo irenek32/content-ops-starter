@@ -10,7 +10,6 @@ styles:
 seo:
   metaTitle: Blog
   metaDescription: ''
-  socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
