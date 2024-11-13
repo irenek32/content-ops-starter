@@ -49,12 +49,15 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
+    title:
+      type: TitleBlock
+      text: Amazon Products
+      color: text-dark
+    subtitle: ''
     items:
-      - title: Items on sale
+      - title: 'Items #1'
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           url: /images/person-placeholder-light.png
@@ -65,7 +68,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: See Product
             altText: ''
             url: /
             showIcon: false
@@ -86,15 +89,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'Items #2'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
@@ -102,7 +100,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -116,15 +123,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'Items #3'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -132,7 +134,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -146,15 +157,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'Items #4'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -162,7 +168,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
