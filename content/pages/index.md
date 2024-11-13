@@ -102,7 +102,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: See Product
             altText: ''
             url: /
             showIcon: false
