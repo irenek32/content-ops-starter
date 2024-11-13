@@ -55,7 +55,7 @@ sections:
       color: text-dark
     subtitle: ''
     items:
-      - title: Items on sale
+      - title: 'Items #1'
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: ''
