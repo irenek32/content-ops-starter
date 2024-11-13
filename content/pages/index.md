@@ -106,7 +106,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/Electric Portable Nail Drill Machine Kit.jpg
           altText: Placeholder image
           styles:
             self:
