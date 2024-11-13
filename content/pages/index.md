@@ -143,7 +143,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/31 pcs Nail Art Brush Tool Sets.jpg
           altText: Placeholder image
           styles:
             self:
