@@ -123,7 +123,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: 'Items #1'
+      - title: 'Items #3'
         tagline: ''
         subtitle: ''
         text: >-
