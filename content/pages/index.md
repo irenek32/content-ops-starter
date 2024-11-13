@@ -158,6 +158,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            margin:
+              - mb-10
       - type: FeaturedItem
         title: 'Item #4'
         tagline: ''
