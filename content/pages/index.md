@@ -63,7 +63,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: 'Item #1'
+        title: Nail Prep Dehydrate and Acid-Free Primer
         tagline: ''
         subtitle: ''
         text: ''
