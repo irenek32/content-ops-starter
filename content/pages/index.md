@@ -51,40 +51,6 @@ sections:
   - type: CarouselSection
     subtitle: Amazon Products
     items:
-      - title: 'Items #6'
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
       - type: FeaturedItem
         title: 'Items #7'
         tagline: ''
