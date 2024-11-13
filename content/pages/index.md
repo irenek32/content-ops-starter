@@ -66,8 +66,7 @@ sections:
         title: Nail Prep Dehydrate and Acid-Free Primer
         tagline: ''
         subtitle: ''
-        text: |
-          [See Product](https://amzn.to/4fMIB8u)
+        text: ''
         image:
           type: ImageBlock
           url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
