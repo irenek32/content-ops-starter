@@ -51,6 +51,32 @@ sections:
   - type: CarouselSection
     subtitle: Amazon Products
     items:
+      - type: FeaturedItem
+        title: 'Items #1'
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Untitled design (1).png
+          altText: ''
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
       - title: 'Items #1'
         tagline: ''
         subtitle: ''
@@ -385,7 +411,7 @@ sections:
             flexDirection: row
     elementId: null
     variant: next-prev-nav-multiple
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
