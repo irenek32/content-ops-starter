@@ -3,6 +3,7 @@ title: Irene Store
 slug: /
 sections:
   - type: GenericSection
+  - <meta name="p:domain_verify" content="e674dfcc5cf58e78e51962540ad59c1a"/>
     title:
       text: Welcome
       color: text-dark
