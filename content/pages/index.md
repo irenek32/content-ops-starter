@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: to Irene Store
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Bringing you the best in nail art \U0001F496, fresh designs \U0001F485, and daily inspiration \U0001F308. Follow for creative ideas to make your nails stand out! ✨\U0001F496\n"
     actions:
       - label: Get started
         altText: ''
