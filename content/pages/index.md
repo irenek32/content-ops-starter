@@ -411,7 +411,7 @@ sections:
             flexDirection: row
     elementId: null
     variant: next-prev-nav-multiple
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
