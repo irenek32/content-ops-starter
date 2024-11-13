@@ -36,14 +36,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        altText: Pinterest
-        url: 'https://pinterest.com/Irene_Abigail/'
-        showIcon: true
-        icon: facebook
-        iconPosition: left
-        style: secondary
-        elementId: ''
     media:
       url: /images/Grey minimalist business project presentation .jpg
       altText: Unblock your team boost your time to production preview
