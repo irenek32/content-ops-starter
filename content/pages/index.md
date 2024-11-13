@@ -191,15 +191,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'Items #5'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -207,7 +202,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -221,15 +225,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'Items #6'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
@@ -237,7 +236,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
@@ -376,16 +384,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
