@@ -70,7 +70,7 @@ sections:
           [See Product](https://amzn.to/4fMIB8u)
         image:
           type: ImageBlock
-          url: /images/Grey minimalist business project presentation .jpg
+          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
           altText: Placeholder image
           styles:
             self:
