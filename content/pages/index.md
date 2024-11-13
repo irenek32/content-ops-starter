@@ -37,7 +37,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: Facebook
+        altText: Pinterest
         url: 'https://pinterest.com/Irene_Abigail/'
         showIcon: true
         icon: facebook
