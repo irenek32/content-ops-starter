@@ -92,6 +92,35 @@ sections:
             borderStyle: solid
             textAlign: center
             justifyContent: center
+      - type: FeaturedItem
+        title: 'Item #1'
+        tagline: ''
+        subtitle: ''
+        text: |
+          [See Product](/)
+        image:
+          type: ImageBlock
+          url: /images/Grey minimalist business project presentation .jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-5
+              - pb-4
+              - pr-5
+            borderRadius: x-large
+            flexDirection: col
+            borderColor: border-neutral
+            borderWidth: 0
+            borderStyle: solid
+            textAlign: center
+            justifyContent: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
