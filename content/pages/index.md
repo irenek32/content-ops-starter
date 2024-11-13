@@ -62,7 +62,7 @@ sections:
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: '/images/Item #1.png'
+          url: /images/Grey minimalist business project presentation .jpg
           altText: Placeholder image
           styles:
             self:
