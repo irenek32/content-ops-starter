@@ -151,7 +151,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: 'Item #3'
+        title: 'Item #4'
         tagline: ''
         subtitle: ''
         text: ''
