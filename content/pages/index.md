@@ -68,7 +68,7 @@ sections:
             altText: ''
             url: /
             showIcon: false
-            icon: arrowRight
+            icon: ''
             iconPosition: right
             style: secondary
             elementId: ''
