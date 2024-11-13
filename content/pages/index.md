@@ -90,6 +90,7 @@ sections:
             borderWidth: 0
             borderStyle: solid
             textAlign: center
+            justifyContent: center
       - type: FeaturedItem
         title: 'Item #3'
         tagline: ''
