@@ -89,7 +89,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: 'Items #1'
+      - title: 'Items #2'
         tagline: ''
         subtitle: ''
         text: ''
