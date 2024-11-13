@@ -174,10 +174,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          Nail Care Tool Kit, Nail Files 100/180, Nail Buffer Block, Cuticle
-          Nippers, Cuticle Trimmer, Cuticle Pusher, Nail Lifter for Ingrown
-          Toenails
+        title: Nail Care Tool Kit Pedicure & Manicure Tools
         tagline: ''
         subtitle: ''
         text: ''
