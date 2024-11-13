@@ -84,7 +84,7 @@ sections:
               - pl-5
               - pb-4
               - pr-5
-            borderRadius: xx-small
+            borderRadius: full
             flexDirection: col
             borderColor: border-neutral
             borderWidth: 0
