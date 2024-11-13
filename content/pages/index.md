@@ -69,7 +69,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/No Wipe Gel Top Coat and Base Coat Set.jpg
           altText: Placeholder image
           styles:
             self:
