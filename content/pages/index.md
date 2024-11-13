@@ -365,7 +365,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Nail Prep Dehydrate and Acid-Free Primer.jpg
+          url: /images/4PCS Silicone Tip Nail Stamper Kit.jpg
           altText: Placeholder image
           styles:
             self:
