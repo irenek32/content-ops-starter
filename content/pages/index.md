@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Irene Store
 slug: /
 sections:
   - type: GenericSection
