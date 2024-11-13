@@ -83,7 +83,7 @@ sections:
               - pt-4
               - pl-8
               - pb-4
-              - pr-8
+              - pr-5
             borderRadius: medium
             flexDirection: col
             borderColor: border-neutral
