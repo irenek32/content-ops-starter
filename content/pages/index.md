@@ -89,6 +89,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 0
             borderStyle: solid
+            textAlign: center
       - type: FeaturedItem
         title: 'Item #2'
         tagline: ''
