@@ -85,7 +85,7 @@ sections:
               - pb-5
               - pr-8
             borderRadius: medium
-            flexDirection: row
+            flexDirection: col
             borderColor: border-neutral
             borderWidth: 0
             borderStyle: solid
