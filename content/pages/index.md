@@ -260,7 +260,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: 'Items #6'
+        title: 'Items #7'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
