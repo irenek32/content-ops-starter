@@ -1,0 +1,70 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Item",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Item"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Nail Prep Dehydrate and Acid-Free Primer",
+                "tagline": "",
+                "subtitle": "",
+                "text": "",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Nail Prep Dehydrate and Acid-Free Primer.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "See Product",
+                        "altText": "",
+                        "url": "https://amzn.to/3ADQi1H",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-4",
+                            "pl-5",
+                            "pb-4",
+                            "pr-5"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col",
+                        "borderColor": "border-neutral",
+                        "borderWidth": 0,
+                        "borderStyle": "solid",
+                        "textAlign": "center",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-item-3da7.png"
+        }
+    ]
+}
