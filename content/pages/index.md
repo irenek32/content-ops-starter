@@ -51,7 +51,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: Amazon Products
+      text: ''
       color: text-dark
     subtitle: ''
     items:
