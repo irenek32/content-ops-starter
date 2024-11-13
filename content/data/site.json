@@ -1,8 +1,7 @@
 {
-    "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "Irene Store",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "favicon": "/images/Grey minimalist business project presentation .jpg"
 }
