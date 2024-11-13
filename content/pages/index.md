@@ -76,7 +76,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: See Product
             altText: ''
             url: 'https://amzn.to/3ADQi1H'
             showIcon: false
