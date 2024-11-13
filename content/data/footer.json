@@ -2,7 +2,7 @@
     "text": "",
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "",
-    "colors": "bg-dark-fg-light",
+    "copyrightText": "<div style=\"text-align: center\">@Copyright 2024</div>\n\n",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }

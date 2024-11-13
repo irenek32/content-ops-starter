@@ -33,10 +33,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -59,19 +55,27 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        title: 'Item #1'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
-          url: '/images/Item #1.png'
+          url: /images/Grey minimalist business project presentation .jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -83,19 +87,27 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        title: 'Item #2'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Grey minimalist business project presentation .jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -107,19 +119,123 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        title: 'Item #3'
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Grey minimalist business project presentation .jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: 'Item #4'
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Grey minimalist business project presentation .jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: 'Item #5'
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Grey minimalist business project presentation .jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: 'Item #6'
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Grey minimalist business project presentation .jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: See Product
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -140,188 +256,6 @@ sections:
           - pl-8
           - pb-16
           - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    subtitle: Amazon Products
-    items:
-      - type: FeaturedItem
-        title: 'Item #1'
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/Untitled design (1).png
-          altText: 'Item #1'
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: ''
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: 'Item #2'
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/Untitled design (1).png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: 'Item #3'
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/Untitled design (1).png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: See Product
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: 'Item #4'
-        subtitle: $ 88 – $ 176
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: 'Item #5'
-        subtitle: $ 88 – $ 176
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: 'Item #6'
-        subtitle: $ 88 – $ 176
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-    elementId: null
-    variant: next-prev-nav-multiple
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
         justifyContent: center
       subtitle:
         textAlign: center
@@ -422,13 +356,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -440,79 +367,6 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Items on sale
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    items:
-      - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-      - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
-        justifyContent: flex-start
       subtitle:
         textAlign: center
 seo:
